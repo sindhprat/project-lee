@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>LeeGee in Brissie</string>
+		<key>shortcut</key>
+		<string>jjj</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>U7 9 Silva St, Ascot QLD 4007</string>
+		<key>shortcut</key>
+		<string>zadd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>leighg@worldsbiggestgaragesale.com.au</string>
+		<key>shortcut</key>
+		<string>zemb</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>leigh.grigaliunas@gmail.com</string>
+		<key>shortcut</key>
+		<string>zemp</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>leegee27394@gmail.com</string>
+		<key>shortcut</key>
+		<string>zems</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git add</string>
+		<key>shortcut</key>
+		<string>zga</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git branch</string>
+		<key>shortcut</key>
+		<string>zgb</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git checkout </string>
+		<key>shortcut</key>
+		<string>zgch</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git clone</string>
+		<key>shortcut</key>
+		<string>zgcl</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git commit -m ""</string>
+		<key>shortcut</key>
+		<string>zgco</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git diff</string>
+		<key>shortcut</key>
+		<string>zgd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git fetch</string>
+		<key>shortcut</key>
+		<string>zgf</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git --help</string>
+		<key>shortcut</key>
+		<string>zgh</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git init </string>
+		<key>shortcut</key>
+		<string>zgi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git ls-files
+git ls-</string>
+		<key>shortcut</key>
+		<string>zgli</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git log</string>
+		<key>shortcut</key>
+		<string>zglo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git merge</string>
+		<key>shortcut</key>
+		<string>zgm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git pull</string>
+		<key>shortcut</key>
+		<string>zgpl</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git push</string>
+		<key>shortcut</key>
+		<string>zgps</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git reset HEAD &lt;file(s)&gt;</string>
+		<key>shortcut</key>
+		<string>zgrhd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git reset --hard</string>
+		<key>shortcut</key>
+		<string>zgrhr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git reset --soft HEAD^</string>
+		<key>shortcut</key>
+		<string>zgrhs</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git show</string>
+		<key>shortcut</key>
+		<string>zgsh</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>git status</string>
+		<key>shortcut</key>
+		<string>zgst</string>
+	</dict>
+</array>
+</plist>
